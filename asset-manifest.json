@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Calculator/static/css/main.360d21dc.css",
+    "main.js": "/Calculator/static/js/main.e0b6fd5a.js",
+    "static/media/2103.i518.018.S.m005.c12.suburban house night.jpg": "/Calculator/static/media/2103.i518.018.S.m005.c12.suburban house night.5b32bed2d5511f1adadf.jpg",
+    "static/media/banner-image.png": "/Calculator/static/media/banner-image.c1c90ecff58c2db2e0e8.png",
+    "static/media/speech-bubble.png": "/Calculator/static/media/speech-bubble.225b80d992a84076cf6e.png",
+    "index.html": "/Calculator/index.html",
+    "main.360d21dc.css.map": "/Calculator/static/css/main.360d21dc.css.map",
+    "main.e0b6fd5a.js.map": "/Calculator/static/js/main.e0b6fd5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.360d21dc.css",
+    "static/js/main.e0b6fd5a.js"
+  ]
+}
